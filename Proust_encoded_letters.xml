@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance de Proust : Lettres à Montesquiou</title>
+                <respStmt>
+                    <resp>Responsable de publication</resp>
+                    <name>Alice Guerin</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Éditions Proustiennes</publisher>
+                <pubPlace>
+                    <address>
+                        <addrLine>1, rue des Madeleines</addrLine>
+                        <addrLine>64003 Proustville</addrLine>
+                        <addrLine>FRANCE</addrLine>
+                    </address>
+                </pubPlace>
+                <authority>
+                    <persName>
+                        <forename>Alice</forename>
+                        <surname>Guerin</surname>
+                        <affiliation>École Nationale des Chartes, Paris</affiliation>
+                    </persName>
+                </authority>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/">Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).</licence>
+                </availability>
+                <date when="2025"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Pro, Michel et Ust, Pierre, Éditions complètes de la correspondante de Marcel Proust, Proustland, 1943.</bibl>
+                <listPerson>
+                    <person>
+                        <persName xml:id="id001">Le Greco</persName>
+                        <idno type="wikidata">Q301</idno>
+                    </person>
+                    <person>
+                        <persName xml:id="id002">Léonard de Vinci</persName>
+                        <idno type="wikidata">Q762</idno>
+                    </person>
+                    <person>
+                        <persName xml:id="id003">Gaspare de Vitelleschi degli Azzi</persName>
+                    </person>
+                    <person>
+                        <persName xml:id="id004">Albert Robin</persName>
+                        <idno type="wikidata">Q20829767</idno>
+                    </person>
+                    <person>
+                        <persName xml:id="id005">Herminie de La Brousse de Verteillac</persName>
+                        <idno type="wikidata">Q642403</idno>
+                    </person>
+                    <person>
+                        <persName xml:id="id006">André Maurel</persName>
+                        <idno type="wikidata">Q18115548</idno>
+                    </person>
+                    <person>
+                        <persName xml:id="id007">Victor Maurel</persName>
+                        <idno type="wikidata">Q116737818</idno>
+                    </person>
+                    <person>
+                        <persName xml:id="id008">Louis de Rouvroy de Saint-Simon</persName>
+                        <idno type="wikidata">Q463728</idno>
+                    </person>
+                    <person>
+                        <persName xml:id="id009">Philippe d'Orléans</persName>
+                        <idno type="wikidata">Q155596</idno>
+                    </person>
+                    <person>
+                        <persName xml:id="id010">Pierre Ier Romanov</persName>
+                        <idno type="wikidata">Q8479</idno>
+                    </person>
+                    <person>
+                        <persName xml:id="id011">Gaston Arman de Caillavet</persName>
+                        <idno type="wikidata">Q1495559</idno>
+                    </person>
+                </listPerson>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Marcel Proust</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Robert de Montesquiou</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div when="1909-02-21">
+                <opener>
+                    <salute>Cher Monsieur,</salute>
+                </opener>
+                <p>Je vous remercie mille fois des éblouissants articles, où la Sagesse retentit harmonieusement de plus
+                    <lb/>de grelots que ne ferait la Folie. — . Quant au <pastiche type="desc">pastiche</pastiche> il m’a semblé assez exact et je compte le
+                    <lb/>publier. Si je n’avais pas voulu au début le déclarer, c’est que je comptais alors user assez librement
+                    <lb/>de cette signature, et il avait été convenu que j’en garderais l’incognito. Au reste mes humbles ailes
+                    <lb/>n’avaient pas besoin d’être reconnues de vous, puisqu’elles faisaient voler une louange et non une
+                    <lb/>flèche, et vous pouvez toujours être certain de n’avoir anonymement de moi que des fleurs (vous ne
+                    <lb/>receviez pas très gentiment autrefois mes hortensias !) et que pour des choses hostiles, j’userais
+                    <lb/>d’une voix distincte.</p>
+                <p><quote>« Qui pour mieux frapper votre oreille Saurait s’élever, pareille A la rumeur d’une cité »</quote>
+                    <lb/>Mais Dieu me garde de vous exprimer jamais autre chose que l’admiration et l’amitié que je ressens
+                    <lb/>si vivement et auxquelles j’espère bien rester toujours fidèle. C’est un bonheur pour moi, et surtout
+                    <lb/>un honneur, si une publication peut en porter la marque. Et cette raison suffirait à me faire publier et
+                    <lb/>avouer la <pastiche type="main">Fête chez Montesquiou</pastiche>. Le pseudonyme n’aurait plus d’ailleurs aujourd’hui de raison
+                    <lb/>d’être. Je fais chercher précisément un cadre pour votre portrait et espère que je vais en trouver
+                    <lb/>aussi joli que celui qui sʼorne maintenant du merveilleux <title type="main">Versailles</title> d’<persName>Helleu</persName>. Merci encore cher
+                    <lb/>Monsieur pour les articles, j’espère aller mieux et vous voir alors. Sans doute vous verrez dans des
+                    <lb/>Suppléments du Figaro de <pastiche type="desc">vieux pastiches</pastiche> que j’y ai envoyés. Il est même possible que l’un paraisse
+                    <lb/>Samedi. Ils ne sont pas fameux mais peut’être vous amuseront cependant. Quant à un <pastiche type="desc">pastiche de
+                        vous</pastiche>,<lb/> c’est à dire nouveau, si vous m’y autorisez, il faudra que j’aille un peu mieux.</p>
+                <closer>
+                    Votre reconnaissant admirateur
+                    <signed>Marcel Proust</signed>
+                </closer>
+            </div>
+            <div when="1909-02-16">
+                <opener>Mardi
+                    <salute>Cher Monsieur,</salute>
+                </opener>
+                <p>Ma maladie qui s’est un peu aggravée ces temps-ci s’est compliquée de ceci que je ne peux plus
+                    <lb/>écrire si peu que ce soit sans avoir tout de suite des maux de tête. Aussi pour ne pas écrire
+                    <lb/>inutilement j’attendais d’aller vous voir pour vous dire que je pensais beaucoup à vous, que j’avais
+                    <lb/>lu vos ravissants articles sur <persName ref="#001">Greco</persName>, sur <persName ref="#002">Léonard</persName>, sur le <persName ref="#003">peintre de l’Engadine</persName> et que si je nʼ avais
+                    <lb/>pas été malade je vous en aurais félicité. L’autre jour j’ai lu <title type="main">les Paons</title>, et si la lecture me fatigue, du
+                    <lb/> moins j’ai lu là de si belles choses ! Et dans les plus simples pièces telles que celles au <persName ref="#004">Dr Robin</persName>, à
+                    <lb/>la <persName ref="#005">Dsse de Rohan</persName>, il y a de la vraie grandeur, des fleurs stylisées mais irrésistibles.</p>
+                <p>J’ai regretté que mon nom ne fut au-dessus dʼ aucune pièce. Je ne le mérite pas autant qu’<persName ref="#006">André
+                    <lb/>Maurel</persName>. Mais que <persName ref="#007">Victor</persName> ? Du reste la dédicace ne fait rien. Les pièces appartiennent à qui sait s’en
+                    <lb/>approprier la pensée. Et à ce point de vue j’ai l’orgueil de croire que je suis leur lecteur, ou de leurs
+                    <lb/>lecteurs, prédestinés. Si par hasard vous aviez encore le pastiche de <persName ref="#008">St Simon</persName>, <title type="main">Fête chez
+                        <lb/>Montesquiou</title>, et si vous n’en faites rien, voulez vous à l’occasion, et sans que cela presse en rien,
+                    <lb/>n’importe quand, me le faire adresser bd Haussmann faire suivre. Tant que je ne pourrai pas tra-
+                    <lb/>vailler, j’ai l’intention d’écouler encore q.q. <pastiche type="desc">pastiches faits l’année dernière</pastiche>, et peut’être de tout
+                    <lb/>réunir. Et me faisant lire dernièrement du St Simon, je me demandais si celui-là serait assez exact
+                    <lb/>pour être réuni aux autres. Tout plein de St Simon à ce moment là, je l’aurais facilement corrigé. Je
+                    <lb/>ne suis plus dans les mêmes dispositions, mais si j’en relis ou m’en fais relire, je pourrais faire les
+                    <lb/>rectifications, si j’ai des heures possibles. Je viens d’en traverser d’affreuses. Au fond le pastiche
+                    <lb/>qui m’amuserait le plus à faire quand je pourrai écrire un peu (sans préjudice d’études plus
+                    <lb/>sérieuses) c’est un <pastiche type="desc">pastiche de vous</pastiche> ! Mais d’abord cela vous fâcherait peut’être, et je ne veux pas
+                    <lb/>que rien de moi vous fâche jamais, je vous aime trop pour cela, et ensuite je crois que je ne pourrais
+                    <lb/>jamais, que je ne saurais pas ! _. J’espère bientôt être de nouveau visible et approchable, et alors je
+                    <lb/>tâcherai de vous voir.</p> <closer>En attendant je vous envoie tous mes affectueux et admiratifs hommages
+                        <signed>Marcel Proust</signed></closer>
+            </div>
+            <div when="1909-03-02">
+                <opener>Mardi
+                    <salute>Cher Monsieur,</salute>
+                </opener>
+                <p>Je vous remercie mille fois de votre lettre. Je suis trop fatigué, en ce moment, pour faire de
+                    <lb/>nouveaux pastiches. Et le vôtre n’est même pas commencé. Je sais seulement, si je le faisais, que je
+                    <lb/>mettrais en épigraphe une phrase de <persName ref="#008">Saint-Simon</persName> sur <persName ref="#009">le Régent</persName> : <quote>« un diamand de la grosseur d’une
+                        <lb/>prune de la reine Claude »</quote>, si toutefois cette phrase n’a jamais été citée par vous. Car un pastiche ne
+                    <lb/>doit jamais rien citer. Et je finis par me demander si, le connaissant d’ailleurs par moi-même de
+                    <lb/>Saint-Simon (si je me rappelle bien au moment de l’arrivée de <persName ref="#010">Pierre le Grand</persName> à Paris) je ne l’ai pas
+                    <lb/>lu aussi dans vos œuvres. Surtout ne me répondez pas pour cela ! Je l’y chercherai et espère vous le
+                    <lb/>demander de vive voix. Je ne songe d’ailleurs pas, actuellement, à de nouveaux pastiches.</p>
+                <p>Veuillez agréer, cher Monsieur, des nouvelles pensées admiratives toutes fraîches (car je vous ai lu
+                    <lb/>toute la nuit dernière) toujours confirmées, renouvelées, et même assurées.</p>
+                <closer>Votre reconnaissant
+                    <signed>Marcel Proust.</signed>
+                </closer>
+                <postscript>Je ne sais quand paraîtront les <pastiche type="desc">pastiches annoncés</pastiche>. Je pense samedi. <persName ref="#011">G...</persName> paraît-il les aurait expédiés.</postscript>
+            </div>
+        </body>
+    </text>
+</TEI>
